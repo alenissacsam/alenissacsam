@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alen Issac Sam
+#  Hi, I’m Alen Issac Sam
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -19,7 +19,7 @@ Hey there! I'm **Alen Issac Sam**, a passionate full-stack developer and tech en
 - 🌱 I'm learning **Rust**, **Web3 development**, and **Machine Learning**
 - 👯 I'm looking to collaborate on **Open-source projects**, **Blockchain solutions**, and **Innovative web applications**
 - 💬 Ask me about **React**, **Node.js**, **Solidity**, **Python**, or anything tech-related!
-- 📫 How to reach me: **alenissacsam@gmail.com** | [LinkedIn](https://www.linkedin.com/in/alenissacsam/)
+- 📫 How to reach me: **alenissacsam05@gmail.com** | [LinkedIn](https://www.linkedin.com/in/alen-issac-sam-567485245/)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I can debug code faster after midnight and I collect vintage keyboards!** 🌙⌨️
 
@@ -123,13 +123,13 @@ Hey there! I'm **Alen Issac Sam**, a passionate full-stack developer and tech en
 ## 🌍 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alenissacsam/">
+  <a href="https://www.linkedin.com/in/alen-issac-sam-567485245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/alenissacsam">
+  <a href="https://x.com/alenissacsam">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:alenissacsam@gmail.com">
+  <a href="mailto:alenissacsam05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://alenissacsam.dev">
