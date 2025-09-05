@@ -1,8 +1,6 @@
-#  Hi, I’m Alen Issac Sam
+# Hi, I'm Alen Issac Sam
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alenissacsam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -38,69 +36,51 @@ Hey there! I'm **Alen Issac Sam**, a passionate full-stack developer and tech en
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🌟 [DeFi Portfolio Tracker](https://github.com/alenissacsam/defi-portfolio-tracker)
-**Full-Stack DeFi Application** | React + Node.js + Solidity
-- 📊 Real-time portfolio tracking across multiple blockchains
-- 💱 Automated yield farming strategies
-- 🔐 MetaMask integration with secure wallet connections
-- **Tech Stack:** React, Node.js, Solidity, Web3.js, MongoDB
+### 🔐 [Christ_Hack](https://github.com/alenissacsam/Christ_Hack)
+A decentralized identity verification dApp using blockchain, ZK proofs, and a wizard-style flow for secure and privacy-preserving identity management.
+- **Tech Stack:** TypeScript, React, Solidity, Zero-Knowledge Proofs
 
-### 🤖 [AI Task Manager](https://github.com/alenissacsam/ai-task-manager)
-**AI-Powered Productivity App** | Next.js + Python + OpenAI API
-- 🧠 Smart task prioritization using machine learning
-- 📅 Intelligent scheduling and time management
-- 📊 Advanced analytics and productivity insights
-- **Tech Stack:** Next.js, Python, FastAPI, OpenAI API, PostgreSQL
+### 💰 [Fund_Me_Project-1](https://github.com/alenissacsam/Fund_Me_Project-1)
+A minimal blockchain project for funding contract owners with donations, featuring Chainlink price feeds for accurate USD conversions.
+- **Tech Stack:** Solidity, Foundry, Chainlink
 
-### 🛒 [E-Commerce Platform](https://github.com/alenissacsam/modern-ecommerce)
-**Modern E-Commerce Solution** | MERN Stack
-- 🛍️ Full-featured online marketplace
-- 💳 Stripe payment integration
-- 📱 Mobile-responsive design with PWA capabilities
-- **Tech Stack:** React, Node.js, Express, MongoDB, Stripe API
-
-### 📱 [Social Media Dashboard](https://github.com/alenissacsam/social-dashboard)
-**Analytics Dashboard** | React + TypeScript
-- 📈 Multi-platform social media analytics
-- 📊 Real-time data visualization with Chart.js
-- 🎨 Modern UI with dark/light theme toggle
-- **Tech Stack:** React, TypeScript, Chart.js, Tailwind CSS
+### 🎨 [Mood-NFT_Project-3](https://github.com/alenissacsam/Mood-NFT_Project-3)
+A dApp for minting NFTs representing mood states with dynamic SVG visuals, allowing owners to flip between happy and sad moods.
+- **Tech Stack:** Solidity, React, Hardhat, Foundry, SVG
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alenissacsam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alen's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenissacsam&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alenissacsam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alen's GitHub Stats"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenissacsam&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenissacsam&theme=radical" alt="GitHub Streak Stats" />
