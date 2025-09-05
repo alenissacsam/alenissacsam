@@ -1,6 +1,8 @@
 # Hi, I'm Alen Issac Sam
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alenissacsam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -25,7 +27,26 @@ Hey there! I'm **Alen Issac Sam**, a passionate full-stack developer and tech en
 
 ## 🛠️ Skills & Technologies
 
-### Frontend Development
+### 🔗 Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,111 +55,86 @@ Hey there! I'm **Alen Issac Sam**, a passionate full-stack developer and tech en
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🏗️ Featured Projects
+## 🌟 Featured Projects
 
-### 🔐 [Christ_Hack](https://github.com/alenissacsam/Christ_Hack)
-A decentralized identity verification dApp using blockchain, ZK proofs, and a wizard-style flow for secure and privacy-preserving identity management.
-- **Tech Stack:** TypeScript, React, Solidity, Zero-Knowledge Proofs
+### 🎯 Christ_Hack
+**Hackathon Management Platform** | A comprehensive platform for organizing and managing hackathons with real-time collaboration features.
 
-### 💰 [Fund_Me_Project-1](https://github.com/alenissacsam/Fund_Me_Project-1)
-A minimal blockchain project for funding contract owners with donations, featuring Chainlink price feeds for accurate USD conversions.
-- **Tech Stack:** Solidity, Foundry, Chainlink
+**Tech Stack:** React, Node.js, MongoDB, Socket.io, JWT Authentication
 
-### 🎨 [Mood-NFT_Project-3](https://github.com/alenissacsam/Mood-NFT_Project-3)
-A dApp for minting NFTs representing mood states with dynamic SVG visuals, allowing owners to flip between happy and sad moods.
-- **Tech Stack:** Solidity, React, Hardhat, Foundry, SVG
+**Key Features:**
+- 🏆 Real-time team formation and collaboration
+- 📊 Dynamic leaderboards and scoring system
+- 🔐 Secure authentication and role-based access
+- 📱 Responsive design for all devices
+
+---
+
+### 🎫 TicketVerse
+**Decentralized Event Ticketing Platform** | A blockchain-based ticketing system that eliminates fraud and enables secure, transparent ticket trading.
+
+**Tech Stack:** Solidity, React, Web3.js, IPFS, Ethereum
+
+---
+
+### 💰 Stable Coin
+**ERC-20 Stablecoin Implementation** | A algorithmic stablecoin with automated price stabilization mechanisms and governance features.
+
+**Tech Stack:** Solidity, Hardhat, OpenZeppelin, Chainlink Oracles
 
 ---
 
 ## 📊 GitHub Stats
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alenissacsam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alen's GitHub Stats"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenissacsam&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alenissacsam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenissacsam&theme=radical" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alenissacsam&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alenissacsam&theme=redical&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alenissacsam&theme=radical&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenissacsam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌍 Connect with Me
+## 🤝 Connect with Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/alen-issac-sam-567485245/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/alenissacsam">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alenissacsam05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://alenissacsam.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/alenissacsam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.gg/alenissacsam">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
+</p>
 
 ---
 
-## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alenissacsam&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+<p align="center">
+  <em>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+</p>
 
----
-
-<div align="center">
-  <h3>🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  <p><i>Thanks for visiting! Feel free to reach out if you want to collaborate on something awesome! 🚀</i></p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
-
----
-
-<div align="center">
-  Made with ❤️ by Alen Issac Sam
 </div>
