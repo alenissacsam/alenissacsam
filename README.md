@@ -31,6 +31,12 @@
 **Passionate About**: Blockchain technology, Clean code, Performance optimization  
 **Fun Fact**: I debug code faster at 3 AM and collect vintage keyboards!
 
+<!-- Roadmap badge best fits here for visibility and focus -->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68bc96e8d26114391c3d3fb5?variant=dark)](https://roadmap.sh)
+
+
+
 <div align="center">
 
 ### Let's Connect!
