@@ -23,7 +23,7 @@
 
 ## About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
 
 **Mission**: Building innovative solutions that bridge traditional tech with Web3  
 **Currently Working On**: Revolutionary DeFi trading platform & AI-powered task management  
@@ -31,7 +31,7 @@
 **Passionate About**: Blockchain technology, Clean code, Performance optimization  
 **Fun Fact**: I debug code faster at 3 AM and collect vintage keyboards!
 
-<!-- Roadmap badge best fits here for visibility and focus -->
+
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68bc96e8d26114391c3d3fb5?variant=dark)](https://roadmap.sh)
 
