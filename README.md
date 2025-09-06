@@ -23,12 +23,16 @@
 
 ## About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
 
 **Mission**: Building innovative solutions that bridge traditional tech with Web3  
+
 **Currently Working On**: Revolutionary DeFi trading platform & AI-powered task management  
+
 **Learning**: Rust, Advanced Web3 patterns, Machine Learning architectures  
+
 **Passionate About**: Blockchain technology, Clean code, Performance optimization  
+
 **Fun Fact**: I debug code faster at 3 AM and collect vintage keyboards!
 
 
