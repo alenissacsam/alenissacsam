@@ -48,6 +48,7 @@
 
 </div>
 
+![@alenissacsam's Holopin board](https://holopin.me/@alenissacsam)
 ---
 
 ## Tech Arsenal
