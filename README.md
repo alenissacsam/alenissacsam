@@ -55,9 +55,17 @@
 
 <div align="center">
 
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![c](https://img.shields.io/badge/c%20-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=c++&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity%20-%231572B6.svg?&style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-EF3A3A?style=for-the-badge&logo=zap&logoColor=white)
