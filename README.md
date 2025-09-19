@@ -36,7 +36,7 @@
 **Fun Fact**: I debug code faster at 3 AM and collect vintage keyboards!
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68bc96e8d26114391c3d3fb5?variant=dark&roadmaps=backend%2Cblockchain%2Crust)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68bc96e8d26114391c3d3fb5?variant=dark&roadmaps=)](https://roadmap.sh)
 
 <div align="center">
 
